@@ -14,6 +14,7 @@ Feedback sobre o resultado da aposta.
 Versão do JDK: Java 8 ou superior.
 
 Bibliotecas Utilizadas:
+
 Nenhuma biblioteca externa foi utilizada neste projeto. As classes Scanner e Random são bibliotecas padrão do Java e não requerem instalação adicional.
 
 Como Rodar o Projeto:
