@@ -11,7 +11,8 @@ Apostar em uma letra específica.
 Apostar em um número par ou ímpar.
 Menu interativo para escolha das opções.
 Feedback sobre o resultado da aposta.
-Versão do JDK: Java 8 ou superior.
+Versão do JDK utilizada nesse projeto: Java 17.0.6.
+Versões JDK compatíveis: Java 8 ou superior.
 
 Bibliotecas Utilizadas:
 
@@ -23,9 +24,11 @@ Certifique-se de ter o Java Development Kit (JDK) instalado em sua máquina. Voc
 
 Baixe o arquivo LotoFacil.java.
 
-Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo LotoFacil.java está localizado.
+Abra um IDE e navegue até o diretório onde o arquivo LotoFacil.java está localizado.
 
-Compile o arquivo Java.
+Abra o arquivo Java no IDE.
+
+Compile o programa.
 
 Após a compilação bem-sucedida, execute o programa.
 
