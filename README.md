@@ -19,9 +19,15 @@ Nenhuma biblioteca externa foi utilizada neste projeto. As classes Scanner e Ran
 Como Rodar o Projeto:
 
 Certifique-se de ter o Java Development Kit (JDK) instalado em sua máquina. Você pode fazer o download e instalação do JDK a partir do site oficial da Oracle ou de outras fontes confiáveis.
+
 Baixe o arquivo LotoFacil.java.
+
 Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo LotoFacil.java está localizado.
+
 Compile o arquivo Java.
+
 Após a compilação bem-sucedida, execute o programa.
+
 O programa será iniciado e exibirá um menu interativo. Siga as instruções exibidas no console para fazer suas apostas e interagir com o jogo.
+
 Divirta-se jogando e boa sorte!
