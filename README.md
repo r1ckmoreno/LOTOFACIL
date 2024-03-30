@@ -7,11 +7,17 @@ Este projeto é uma simulação simples de um jogo de loteria chamado LotoFácil
 Funcionalidades:
 
 Apostar em um intervalo de números (de 0 a 100).
+
 Apostar em uma letra específica.
+
 Apostar em um número par ou ímpar.
+
 Menu interativo para escolha das opções.
+
 Feedback sobre o resultado da aposta.
+
 Versão do JDK utilizada nesse projeto: Java 17.0.6.
+
 Versões JDK compatíveis: Java 8 ou superior.
 
 Bibliotecas Utilizadas:
