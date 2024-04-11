@@ -43,8 +43,14 @@ O programa será iniciado e exibirá um menu interativo. Siga as instruções ex
 
 Divirta-se jogando e boa sorte!
 
+Demonstração do Projeto Funcionando:
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![trim FEA9F683-408C-4D87-9195-1A0FB2B887CC](https://github.com/r1ckmoreno/LOTOFACIL/assets/125594347/dfd21fdf-14dd-44fc-8957-f20d39c9eed8)
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Projeto: LotoFacilComInterfaceGrafica
