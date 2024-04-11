@@ -101,6 +101,8 @@ Observações:
 
 Este programa foi projetado para fins educacionais e de demonstração.
 
+Demonstração do projeto funcionando: 
+
 ![trim 8963F2EB-64DE-4D7C-B19F-67FB3C3FEDDD-ezgif com-optimize](https://github.com/r1ckmoreno/LOTOFACIL/assets/125594347/2aa42599-dd7c-4f35-be30-7498632005cf)
 
 
